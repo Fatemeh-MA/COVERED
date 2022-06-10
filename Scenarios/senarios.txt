@@ -1,0 +1,24 @@
+senario 1 :
+Two cobots are carrying out pre-programmed tasks. An operator observes the work and interact with Human Machine Interface (HMI) and an AGV moves around.
+HMI Pen assembly and Printer
+HMI Panda activate
+Move Omron
+Observe
+
+senario 2 :
+The operator interacts with one cobot to resume from an error state and with other to receive the assembled product from robot gripper.
+Actiavte panda by touching
+Reduce speed to 30
+HMI printer to client
+Observe
+Take Pen
+
+Senario 3 :
+The cobots are in usual operation and an operator passes by without interaction and collects completed products.
+HMI activate printer to 
+walk with out interfere
+
+Senario 4 :
+Cobots and AGV are working autonomously without any operator presence or intervention.
+Robots move, no human
+
