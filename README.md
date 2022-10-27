@@ -1,4 +1,4 @@
-# COVERED-CollabOratiVE-Robot-Environment-dataset-for-3D-Semantic-segmentation
+# COVERED: CollabOratiVE Robot Environment dataset for 3D Semantic segmentation
 We provide a Dataset for 3D point cloud semantic segmentation in robotic industrial environment. you can find more information in our [paper](https://ieeexplore.ieee.org/document/9921525).
 
 This work was develope by [MindLAb](https://www.zhaw.ch/en/engineering/institutes-centres/ims/mindlab/) of Zurich University of Applied Science (ZHAW).
