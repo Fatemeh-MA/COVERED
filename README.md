@@ -10,4 +10,13 @@ This work was develope by [MindLAb](https://www.zhaw.ch/en/engineering/institute
 # Citation:
 
 If you find this useful for your research, please cite the following paper:
-  C. Munasinghe, F. M. Amin, D. Scaramuzza and H. W. van de Venn, "COVERED, CollabOratiVE Robot Environment Dataset for 3D Semantic segmentation," 2022 IEEE 27th International Conference on Emerging Technologies and Factory Automation (ETFA), 2022, pp. 1-4, doi: 10.1109/ETFA52439.2022.9921525.
+
+    @INPROCEEDINGS{9921525,
+    author={Munasinghe, Charith and Amin, Fatemeh Mohammadi and Scaramuzza, Davide and van de Venn, Hans Wernher},
+    booktitle={2022 IEEE 27th International Conference on Emerging Technologies and Factory Automation (ETFA)}, 
+    title={COVERED, CollabOratiVE Robot Environment Dataset for 3D Semantic segmentation}, 
+    year={2022},
+    volume={},
+    number={},
+    pages={1-4},
+    doi={10.1109/ETFA52439.2022.9921525}}
