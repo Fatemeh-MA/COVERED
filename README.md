@@ -4,7 +4,7 @@ We provide a Dataset for 3D point cloud semantic segmentation in robotic industr
 This work was develope by [MindLAb](https://www.zhaw.ch/en/engineering/institutes-centres/ims/mindlab/) of Zurich University of Applied Science (ZHAW).
 
 
-
+idx_to_label = {0: "Unlabeled", 1: "Floor", 2: "Wall", 3: "Robot", 4: "Human", 5: "AGV" }
 
 
 ## Citation:
